@@ -1,6 +1,5 @@
 package com.offcn.service.impl;
 
-import com.offcn.dao.UserDao;
 import com.offcn.po.User;
 import com.offcn.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
