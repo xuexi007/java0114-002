@@ -17,4 +17,8 @@ public User findByNameContaining(String keyword);
 //开发者1新增方法
 
  public String demo2();
+
+ //开发者1新增方法22
+
+ public String demo22();
 }
